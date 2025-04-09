@@ -1,0 +1,28 @@
+;; *************** HUD_UPDATES.dat ***************
+;; HUD includes export. April 8, 2025 10:39:25 AM
+
+updateHudElement0:
+ RTS
+
+updateHudElement1:
+ RTS
+
+updateHudElement2:
+ RTS
+
+updateHudElement3:
+ RTS
+
+updateHudElement4:
+ RTS
+
+updateHudElement5:
+DrawNumber #0, #0, myTimer , #BOX_0_ASSET_5_MAX_VALUE
+ RTS
+
+updateHudElement6:
+ RTS
+
+updateHudElement7:
+ RTS
+

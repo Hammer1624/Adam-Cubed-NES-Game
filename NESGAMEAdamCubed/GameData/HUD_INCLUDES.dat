@@ -1,0 +1,4 @@
+;; *************** HUD_INCLUDES.dat ***************
+;; HUD includes export. April 8, 2025 10:39:25 AM
+
+DrawNumber #0, #0, myTimer , #BOX_0_ASSET_5_MAX_VALUE
